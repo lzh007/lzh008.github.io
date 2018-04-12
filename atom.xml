@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>薛之豪的博客</title>
+  
+  <subtitle>学无止境</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://linzhihao.top/"/>
+  <updated>2018-04-12T14:33:52.469Z</updated>
+  <id>http://linzhihao.top/</id>
+  
+  <author>
+    <name>薛之豪</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AboutMe</title>
+    <link href="http://linzhihao.top/post/5658dbc3.html"/>
+    <id>http://linzhihao.top/post/5658dbc3.html</id>
+    <published>2018-04-12T14:30:45.000Z</published>
+    <updated>2018-04-12T14:33:52.469Z</updated>
+    
+    <content type="html"><![CDATA[<p>大家好，这是我的博客，我是华软薛之豪.<br>为什么我要写博客呢？其实我是这样理解的；<br>博客是一个程序员的日志，可以记录你每天的编程心得，<br>比如你解决了一个bug,那你可以记录下来，最好是能写得通俗易懂的，毕竟这是一个知识共享平台<br>一来你可以帮助到别人其次能加深这方面的记忆理解。今天就说这么多吧。<br>之前的博客被我折腾坏了，现在把文章重新写一遍，真难受…..</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;大家好，这是我的博客，我是华软薛之豪.&lt;br&gt;为什么我要写博客呢？其实我是这样理解的；&lt;br&gt;博客是一个程序员的日志，可以记录你每天的编程心得，&lt;br&gt;比如你解决了一个bug,那你可以记录下来，最好是能写得通俗易懂的，毕竟这是一个知识共享平台&lt;br&gt;一来你可以帮助到别人其次
+      
+    
+    </summary>
+    
+      <category term="简介" scheme="http://linzhihao.top/categories/%E7%AE%80%E4%BB%8B/"/>
+    
+    
+      <category term="blog" scheme="http://linzhihao.top/tags/blog/"/>
+    
+      <category term="about" scheme="http://linzhihao.top/tags/about/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://linzhihao.top/post/d87f7e0c.html"/>
+    <id>http://linzhihao.top/post/d87f7e0c.html</id>
+    <published>2018-04-12T14:17:44.000Z</published>
+    <updated>2018-04-12T14:19:52.852Z</updated>
+    
+    <content type="html"><![CDATA[<p>你好！！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;你好！！&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="测试" scheme="http://linzhihao.top/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="blog" scheme="http://linzhihao.top/tags/blog/"/>
+    
+      <category term="about" scheme="http://linzhihao.top/tags/about/"/>
+    
+  </entry>
+  
+</feed>

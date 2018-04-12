@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[AboutMe]]></title>
+    <url>%2Fpost%2F5658dbc3.html</url>
+    <content type="text"><![CDATA[大家好，这是我的博客，我是华软薛之豪.为什么我要写博客呢？其实我是这样理解的；博客是一个程序员的日志，可以记录你每天的编程心得，比如你解决了一个bug,那你可以记录下来，最好是能写得通俗易懂的，毕竟这是一个知识共享平台一来你可以帮助到别人其次能加深这方面的记忆理解。今天就说这么多吧。之前的博客被我折腾坏了，现在把文章重新写一遍，真难受…..]]></content>
+      <categories>
+        <category>简介</category>
+      </categories>
+      <tags>
+        <tag>blog</tag>
+        <tag>about</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[test]]></title>
+    <url>%2Fpost%2Fd87f7e0c.html</url>
+    <content type="text"><![CDATA[你好！！]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>blog</tag>
+        <tag>about</tag>
+      </tags>
+  </entry>
+</search>

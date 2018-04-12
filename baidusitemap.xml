@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://linzhihao.top/post/5658dbc3.html</loc>
+    <lastmod>2018-04-12T14:33:52.469Z</lastmod>
+    <data>
+        <display>
+        <title>AboutMe</title>
+        <pubTime>2018-04-12T14:30:45.000Z</pubTime>
+        
+        <tag>blog</tag>
+         
+        <tag>about</tag>
+         
+         
+           
+             
+              <breadCrumb title="简介" url="http://linzhihao.top/categories/%E7%AE%80%E4%BB%8B/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://linzhihao.top/post/d87f7e0c.html</loc>
+    <lastmod>2018-04-12T14:19:52.852Z</lastmod>
+    <data>
+        <display>
+        <title>test</title>
+        <pubTime>2018-04-12T14:17:44.000Z</pubTime>
+        
+        <tag>blog</tag>
+         
+        <tag>about</tag>
+         
+         
+           
+             
+              <breadCrumb title="测试" url="http://linzhihao.top/categories/%E6%B5%8B%E8%AF%95/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
+    
+    
+</urlset>
