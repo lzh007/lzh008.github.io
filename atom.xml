@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://linzhihao.top/"/>
-  <updated>2018-04-12T14:33:52.469Z</updated>
+  <updated>2018-04-13T01:19:45.196Z</updated>
   <id>http://linzhihao.top/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何使用Hexo+Git+GitHub一步一步搭建博客</title>
+    <link href="http://linzhihao.top/post/9ec3e2c0.html"/>
+    <id>http://linzhihao.top/post/9ec3e2c0.html</id>
+    <published>2018-04-13T01:18:30.000Z</published>
+    <updated>2018-04-13T01:19:45.196Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><strong>第一步先注册Github账号</strong></li><li><strong>GitHub的注册步骤看这个</strong></li><li><a href="https://jingyan.baidu.com/article/f7ff0bfc7181492e27bb1360.html" target="_blank" rel="noopener">https://jingyan.baidu.com/article/f7ff0bfc7181492e27bb1360.html</a></li><li><strong>第二步Git的安装</strong></li><li><strong>Git的安装步骤如下<br><a href="https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137396287703354d8c6c01c904c7d9ff056ae23da865a000" target="_blank" rel="noopener">https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137396287703354d8c6c01c904c7d9ff056ae23da865a000</a></strong></li><li><strong>第三步是Hexo的搭建</strong></li><li><strong><a href="https://jingyan.baidu.com/article/d8072ac47aca0fec95cefd2d.html?qq-pf-to=pcqq.c2c" target="_blank" rel="noopener">https://jingyan.baidu.com/article/d8072ac47aca0fec95cefd2d.html?qq-pf-to=pcqq.c2c</a></strong></li><li><strong>第四步发表文章</strong></li><li><strong><a href="http://blog.csdn.net/qq_36099238/article/details/54576089" target="_blank" rel="noopener">http://blog.csdn.net/qq_36099238/article/details/54576089</a></strong></li></ul><hr><p> <strong>这里可能部分群众的表情如下</strong><br> <img src="http://img.blog.csdn.net/20171204214909019?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbHpoNzU0NDEzNTYz/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width="300" height="200" alt="图片名称" align="center"></p><ul><li><strong>算了，其实我当初忘记保留截图，你们搭建的过程中出现的问题解决了可以记录下来，那就是你们成为大神的磨刀石！</strong></li><li><strong>下面这条连接你们可以参考一下</strong><br><a href="http://www.hpqsblog.top/2017/06/22/%E5%A6%82%E4%BD%95%E7%94%A8github+hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%20/#more" target="_blank" rel="noopener">http://www.hpqsblog.top/2017/06/22/%E5%A6%82%E4%BD%95%E7%94%A8github+hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%20/#more</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;第一步先注册Github账号&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub的注册步骤看这个&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://jingyan.baidu.com/article/f7ff0b
+      
+    
+    </summary>
+    
+      <category term="搭建博客" scheme="http://linzhihao.top/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="github" scheme="http://linzhihao.top/tags/github/"/>
+    
+      <category term="hexo" scheme="http://linzhihao.top/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>AboutMe</title>
